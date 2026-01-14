@@ -29,5 +29,5 @@ The bot supports playing audio from links and provides basic music control featu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cheater4sT/discord-bot.git
+   git clone https://github.com/Cheater4sT/discord-bot
    cd discord-music-bot
